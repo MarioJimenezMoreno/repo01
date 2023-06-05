@@ -3,6 +3,7 @@
 1.1 ➡ Creamos el directorio local con el nombre de "repo01".
 
 1.2 ➡ Creamos el readme.md dentro del repositorio.  
+
 ![readme](images/1.2.jpg) 
 
 1.3 ➡ Añadimos el fichero al staging area y visualizamos el estado.
